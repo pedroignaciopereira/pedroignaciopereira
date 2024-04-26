@@ -1,16 +1,13 @@
-### Hi there 👋
+Boas vindas ao meu perfil 😼
 
-<!--
-**pedroignaciopereira/pedroignaciopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Ignácio 😸
 
-Here are some ideas to get you started:
+Olá, estou estudando no [Alura](https://alura.com.br)
+Estou aprendendo a linguagem JavaScript
+Utilizo desse espaço para uma melhor organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo por aqui 📨⬇️
+pedroignaciopereira7@gmail.com
+@pedroignaciopereira
+
+![](https://media1.tenor.com/m/08AOjwzSZR8AAAAC/dance.gif)
